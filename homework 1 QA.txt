@@ -20,3 +20,19 @@
 19. Should the received and returned money be shown on the bill when the payment was done in cash?
 20. How should the clients feedback be received?
 21. Is the feedback visible to every waitress or only to some manager/head waitress?
+
+2) Head waitress
+1. Is there a separate register for each waitress or do they all use the same?
+2. If they all use the same register, can you see each waitress's actions separately?
+3. Should the cash register's initial and end state's recording happen during the shift or at the end of it?
+4. If it happens during the daytime, is there a certain time or it can be done any given moment?
+5. Is it possible to book a table before arrival?
+6. If it's possible, should it be paid in cash, through a bank transfer or is it free of charge?
+7. Are tips included in the cash register?
+8. Can any mistakes done with the cash register be fixed?
+9. Should the cash register be able to make a difference between registrations done on different days?
+10. Are different registers added separately to restaurant's income?
+11. If tips are included in the cash register, then should they be shown separately for each waitress?
+12. Should the cash register show people, who use a client card, separately, to offer them a discount at their next visit?
+13. Are credid-card-paid and cash-paid purchases showed separately?
+14. Should each purchase be shown separately or should it show each purchase done by the same person under one tab etc? 
